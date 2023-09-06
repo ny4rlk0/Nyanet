@@ -1,5 +1,5 @@
 # Nyanet
-<br>Türkiyeden dünyadaki tüm sitelere sansürsüz girmenizi sağlayan yazılım.
+<br>Türkiye'den, dünyadaki tüm sitelere sansürsüz girmenizi sağlayan yazılım.
 <br>C# ve C++ ile yazılmıştır.
 <br>DNS işinizi kendiniz halletmiyorsanız ilk çalıştırmanızda iki kutucuğuda işaretlemenizi tavsiye ederim.
 <br>~ny4rlk0
