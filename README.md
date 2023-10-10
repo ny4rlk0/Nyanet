@@ -13,4 +13,8 @@
 <br><br><img src="ss3.png">
 <br><img src="SS.png">
 <br><a href="https://github.com/ny4rlk0/Nyanet/files/12543047/Nyanet.zip">Nyanet Eski Sürüm</a>
-<br>
+<br>DNS Sunucusu Ekle (+ butonu) kısmındaki alanların hepsinin dolu olması gerekmektedir. İlk açıldığında ne yazmanız gerektiğine dair örnek görünüyor zaten.
+<br>Ekle'ye bastıktan sonra listeden eklediğiniz sunucunun adını seçin ve sırasıyla DNS ekle ve DNS aktifleştiri işaretleyin. 
+<br>Artık sisteminize DNS eklemiş ve aktifleştirmiş bulunuyorsunuz. İsterseniz hazır Google ve Cloudflare DNS sunucularını da kullanabilirsiniz.
+<br>Yine herhangi bir DNS sunucusunu seçtikten sonra sırasıyla DNS ekle ve DNS aktifleştiri işaretleyin.
+<br>Yazılım içinde farklı modlar var ancak varsayılan yazanlarla sabit kalmanızı tavsiye ederim.
