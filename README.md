@@ -13,6 +13,7 @@
 <br>windowsdesktop-runtime-6.0.20-win-x64
 <br>windowsdesktop-runtime-6.0.20-win-x86
 <br><a href="https://github.com/ny4rlk0/Nyanet/releases/tag/Gereksinimler">Gereksinimleri indirmek için tıkla!</a>
+<br><br><img src="ss3.png">
 <br><img src="SS.png">
 <br><a href="https://github.com/ny4rlk0/Nyanet/files/12543047/Nyanet.zip">Nyanet Eski Sürüm</a>
 <br>
