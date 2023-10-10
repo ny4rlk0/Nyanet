@@ -25,4 +25,4 @@
 <br>yeniden başlatana kadar o ayarları kullanamıyorsunuz. Kodlama kısmında Ekle kısmından aldığım değişkenleri yedek değişkenlerde tutmamam bu hataya sebep oldu.
 <br>Bu hata programın akışını etkilemiyor. Şimdilik düzeltmeyle uğraşmayacağım. .d
 <br>
-<br>Yazılım bilinçli olarak türkçe dışında başka bir dile çevrilmedi. Şimdilik sadece Türkçe bilenler ya da Google Translate kullanabilenler kullansın. Fikrimi değiştirirsem ingilizceyede çeviririm.
+<br>Yazılım bilinçli olarak Türkçe dışında başka bir dile çevrilmedi. Şimdilik sadece Türkçe bilenler ya da Google Translate kullanabilenler kullansın. Fikrimi değiştirirsem ingilizceyede çeviririm.
