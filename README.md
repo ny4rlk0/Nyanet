@@ -18,3 +18,5 @@
 <br>Artık sisteminize DNS eklemiş ve aktifleştirmiş bulunuyorsunuz. İsterseniz hazır Google ve Cloudflare DNS sunucularını da kullanabilirsiniz.
 <br>Yine herhangi bir DNS sunucusunu seçtikten sonra sırasıyla DNS ekle ve DNS aktifleştiri işaretleyin.
 <br>Yazılım içinde farklı modlar var ancak varsayılan yazanlarla sabit kalmanızı tavsiye ederim.
+<br>İlk kullanımınızda DNS altındaki tüm tik işareti olanları bir kere işaretleyin. En alttaki Gereksinim olan Windows Desktop Runtime'ın belirli sürümlerini
+<br>indirmesi internetinize bağlı biraz uzun sürebilir. Yaklaşık 104.4MB indirme yapacaktır ve otomatik yükleyecektir. Yükleme bitince ekranda gözükecektir.
