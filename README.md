@@ -26,3 +26,4 @@
 <br>Bu hata programın akışını etkilemiyor. Şimdilik düzeltmeyle uğraşmayacağım. .d
 <br>
 <br>Yazılım bilinçli olarak Türkçe dışında başka bir dile çevrilmedi. Şimdilik sadece Türkçe bilenler ya da Google Translate kullanabilenler kullansın. Fikrimi değiştirirsem ingilizceyede çeviririm.
+<br>İstesem Türkiye dışında bir lokasyonda kullanılmasını çok zor hale getirecek önlemlerde alabilirdim ama uğraşmak istemedim.
