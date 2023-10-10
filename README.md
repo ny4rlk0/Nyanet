@@ -8,10 +8,11 @@
 <br>
 <br><br><img src="ss2.png">
 <br>
-<br><a href="https://github.com/ny4rlk0/Nyanet/files/12543047/Nyanet.zip">Nyanet Eski Sürüm</a>
-<br>
+
 ## Gereksinimler (Bunlar yüklü olmadan bilgisayarınızda çalışmaz!)
 <br>windowsdesktop-runtime-6.0.20-win-x64
 <br>windowsdesktop-runtime-6.0.20-win-x86
 <br><a href="https://github.com/ny4rlk0/Nyanet/releases/tag/Gereksinimler">Gereksinimleri indirmek için tıkla!</a>
 <br><img src="SS.png">
+<br><a href="https://github.com/ny4rlk0/Nyanet/files/12543047/Nyanet.zip">Nyanet Eski Sürüm</a>
+<br>
