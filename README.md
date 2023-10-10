@@ -6,6 +6,8 @@
 <br>~ny4rlk0
 <br><a href="https://github.com/ny4rlk0/Nyanet/releases/download/GelistiriciSurumu/GelistiriciSurumu.zip">Nyaneti İndir Yeni Sürüm</a>
 <br>
+<br><br><img src="SS2.png">
+<br>
 <br><a href="https://github.com/ny4rlk0/Nyanet/files/12543047/Nyanet.zip">Nyanet Eski Sürüm</a>
 <br>
 ## Gereksinimler (Bunlar yüklü olmadan bilgisayarınızda çalışmaz!)
