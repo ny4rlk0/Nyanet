@@ -24,7 +24,7 @@
 <br>
 <br>Bilinen Buglar: (+) butonu ile dns ekledikten sonra eklenen DNS sunucusu dışında başka bir sunucu seçip uygularsanız eklediğiniz sunucu listede görünmesine rağmen programı
 <br>yeniden başlatana kadar o ayarları kullanamıyorsunuz. Kodlama kısmında Ekle kısmından aldığım değişkenleri yedek değişkenlerde tutmamam bu hataya sebep oldu.
-<br>Bu hata programın akışını etkilemiyor. Şimdilik düzeltmeyle uğraşmayacağım. .d
+<br>Bu hata programın akışını etkilemiyor. Şimdilik düzeltmeyle uğraşmayacağım. .d (Yeni sürümde bu sorun çözüldü!)
 <br>
 <br>Yazılım bilinçli olarak Türkçe dışında başka bir dile çevrilmedi. Şimdilik sadece Türkçe bilenler ya da Google Translate kullanabilenler kullansın. Fikrimi değiştirirsem ingilizceyede çeviririm.
 <br>İstesem Türkiye dışında bir lokasyonda kullanılmasını çok zor hale getirecek önlemlerde alabilirdim ama uğraşmak istemedim.
