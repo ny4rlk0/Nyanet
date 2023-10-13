@@ -5,12 +5,12 @@
 <br>DNS işinizi kendiniz halledemiyorsanız ilk çalıştırmanızda iki kutucuğuda işaretlemenizi ve Başlat'a basmanızı tavsiye ederim.
 <br>~ny4rlk0
 <br><a href="https://github.com/ny4rlk0/Nyanet/releases/download/GelistiriciSurumu/GelistiriciSurumu.zip">Nyanet İndir Yeni Sürüm</a>
-<br><br><img src="ss2.png">
+<br><br><img src="1.png">
 ## Gereksinimler (Bunlar yüklü olmadan bilgisayarınızda çalışmaz!)
 <br>windowsdesktop-runtime-6.0.20-win-x64
 <br>windowsdesktop-runtime-6.0.20-win-x86
 <br><a href="https://github.com/ny4rlk0/Nyanet/releases/tag/Gereksinimler">Gereksinimleri indirmek için tıkla!</a>
-<br><br><img src="ss3.png">
+<br><br><img src="2.png">
 <br><img src="SS.png">
 <br><a href="https://github.com/ny4rlk0/Nyanet/files/12543047/Nyanet.zip">Nyanet Eski Sürüm</a>
 <br>DNS Sunucusu Ekle (+ butonu) kısmındaki alanların hepsinin dolu olması gerekmektedir. İlk açıldığında ne yazmanız gerektiğine dair örnek görünüyor zaten.
