@@ -43,7 +43,7 @@
 <br>0.03 Saniyede bir eğer başka işlem yapmıyorsa DNS sunucularını kontrol ediyor, eğer değişmişse ekrana yazıyor.
 <br>Buradaki bilgilere bakarak Virustotalde hangi uyarının neden geldiğini anlayabilirsiniz.
 <br>
-<br> Hangi regedit keylerinde işlem yapıyorum? Hangi regedit keylerinde neyin tuyulduğunu bulmak biraz uğraştırıcıydı...
+<br> Hangi regedit keylerinde işlem yapıyorum? Hangi regedit keylerinde neyin tutulduğunu bulmak biraz uğraştırıcıydı...
 ```
 \"HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\NetworkCards
 \"HKLM\\SOFTWARE\\Policies\\Microsoft\\Windows NT\\DNSClient\" /F"
