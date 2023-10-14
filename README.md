@@ -1,12 +1,13 @@
 # Nyanet
 <br><a href="https://github.com/ny4rlk0/Nyanet/releases/download/GelistiriciSurumu/GelistiriciSurumu.zip">Nyanet İndir Yeni Sürüm / Download Nyanet New Version</a>
 <br><a href="https://www.virustotal.com/gui/file/8e910b396e1a56a08bf8fd0050c4d42b2e3e3f6f5150b5b208aeda55fa70dd70/detection">Virustotal</a>
+<br>
 <br>Microsoft Edge yeni eklenen güvenlik ağı adlı vpn servisi yazılımın çalışmasını bozuyor. Edge kullanırken Gizlilik Arama ve Hizmetlerden kapatın.
 <br>Türkiye'den, dünyadaki tüm sitelere sansürsüz girmenizi sağlayan yazılım.
 <br>C# ve C++ ile yazılmıştır.
 <br>DNS işinizi kendiniz halledemiyorsanız ilk çalıştırmanızda iki kutucuğuda işaretlemenizi ve Başlat'a basmanızı tavsiye ederim.
 <br>~ny4rlk0
-<br>Yenilikler: Yazılım kurcalanmaya karşı güvenceye alındı. Eksik dosyaları bu repodan yeniden indirme özelliği eklendi. Kendini koruma özelliği eklendi. Hata ayıklamaya karşı basit önlemler alındı. DoH eklerken ayarların çalışmamasına ve şifreli DNS hizmetinin açılmamasına sebep olan bir hata düzeltildi! Bir terslik olmazsa daha fazla güncelleme almayacak.
+<br>Yenilikler: Yazılım kurcalanmaya karşı güvenceye alındı. Eksik dosyaları bu repodan yeniden indirme özelliği eklendi. Kendini koruma özelliği eklendi. Hata ayıklamaya karşı basit önlemler alındı. DoH eklerken ayarların çalışmamasına ve şifreli DNS hizmetinin açılmamasına sebep olan bir hata düzeltildi! (Bu hatayı düzeltmek için regedit ayarlamaları yapmak gerekti.) Bir terslik olmazsa daha fazla güncelleme almayacak.
 <br>Yazılım beklentilerimde istediğim fonksiyonalite ve amaca ulaştı. Bir şeyler yolunda gitmediği sürece daha fazla güncelleme almayacaktır!
 <br><a href="https://github.com/ny4rlk0/Nyanet/releases/download/GelistiriciSurumu/GelistiriciSurumu.zip">Nyanet İndir Yeni Sürüm / Download Nyanet New Version</a>
 <br><br><img src="1.png">
@@ -28,3 +29,11 @@
 <br>Bilinen Buglar: (+) butonu ile dns ekledikten sonra eklenen DNS sunucusu dışında başka bir sunucu seçip uygularsanız eklediğiniz sunucu listede görünmesine rağmen programı
 <br>yeniden başlatana kadar o ayarları kullanamıyorsunuz. Kodlama kısmında Ekle kısmından aldığım değişkenleri yedek değişkenlerde tutmamam bu hataya sebep oldu.
 <br>Bu hata programın akışını etkilemiyor. Şimdilik düzeltmeyle uğraşmayacağım. .d (Yeni sürümde bu sorun çözüldü!)
+<br>Neler Yapıyor Detayına inelim biraz:
+<br>Program Açılıyor ve Eksik dosyam var mı? diye kontrol ediyor. (Bir kere)
+<br>Herhangi bir hata ayıklama uygulaması var mı? diye kontrol ediyor varsa Nyanet'i bilgisayarınızdan siliyor. Çalışıyorsa kurcalamayın işte asdalkşdjawld.
+<br>Yoksa içerdiği tüm dosyaların MD5 değerlerini kontrol ediyor. Bir dosya değiştirilmişse tüm programı githubdan yeniden indiriyor. (30 saniyede bir defa)
+<br>Programın çalıştığı klasörde kendi dosyalarından başka bir dosya ya da klasör varmı diye kontrol ediyor. Varsa kurcalanmayı önlemek için kendisini SoftwareProtectionService adlı klasör oluşturup ona kopyalıyor ve not bırakıyor.
+<br>nyaInternalCodes.bat=> Program kendisini yeniden indirdiğinde mevcut programı sonlandırıp siliyor. Güvenliği bilinen sürümünü olan indirilmiş programı açıyor. (Bana göre güvenliği bilinen. Kaynak kodu açık olmadığı için. lol)
+<br>Başlat tuşu DPI Sansürünü Aşan servisi seçili modda başlatıyor.
+<br>Seçili DNS ayarlarını uygula. Yukarıda seçtiğiniz DNS ayarlarını regedit üzerinden bilgisayarınıza uyguluyor.
