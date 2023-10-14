@@ -43,6 +43,11 @@
 <br>0.03 Saniyede bir eğer başka işlem yapmıyorsa DNS sunucularını kontrol ediyor, eğer değişmişse ekrana yazıyor.
 <br>Buradaki bilgilere bakarak Virustotalde hangi uyarının neden geldiğini anlayabilirsiniz.
 <br>
+<br>Bazen programı silmeye çalışırken windivert.sys dosyası takılı kalıyor.
+<br>Komut satırını yönetici olarak çalıştırın.
+<br>```sc query windivert```
+<br>```sc stop windivert```
+<br>
 <br> Hangi regedit keylerinde işlem yapıyorum? Hangi regedit keylerinde neyin tutulduğunu bulmak biraz uğraştırıcıydı...
 <br> Bunun için programın kaynak kodundan küçük bir parçaya bakalım.
 ```
