@@ -35,9 +35,10 @@
 <br>Herhangi bir hata ayıklama uygulaması var mı? diye kontrol ediyor varsa Nyanet'i bilgisayarınızdan siliyor. Çalışıyorsa kurcalamayın işte asdalkşdjawld.
 <br>Yoksa içerdiği tüm dosyaların MD5 değerlerini kontrol ediyor. Bir dosya değiştirilmişse tüm programı githubdan yeniden indiriyor. (30 saniyede bir defa)
 <br>Programın çalıştığı klasörde kendi dosyalarından başka bir dosya ya da klasör varmı diye kontrol ediyor. Varsa kurcalanmayı önlemek için kendisini SoftwareProtectionService adlı klasör oluşturup ona kopyalıyor ve not bırakıyor.
-<br>Pragramı githubdan yeniden indirirken bu sayfadaki linkteki sürümü software.zip olarak indirip aynı klasörde Release adlı bir kasöre çıkartıyor.
+<br>Programı githubdan yeniden indirirken bu sayfadaki linkteki sürümü software.zip olarak indirip aynı klasörde Release adlı bir kasöre çıkartıyor.
 <br>Yazılım indirme sırasında oluşan: nyaInternalCodes.bat=> Program kendisini yeniden indirdiğinde mevcut programı sonlandırıp siliyor. Güvenliği bilinen sürümünü olan indirilmiş programı açıyor. Zip dosyası ve release klasörünü silip kendinide siliyor.(Bana göre güvenliği bilinen. Kaynak kodu açık olmadığı için. lol)
 <br>Başlat tuşu: Bu programa özel C++'da yazılmış DPI Sansürünü Aşan bir servisi seçili modda başlatıyor.
 <br>Seçili DNS ayarlarını uygula: Yukarıda seçtiğiniz DNS ayarlarını regedit üzerinden bilgisayarınıza uyguluyor. (DNS Over Https'yi aktif değilse regedite müdehale edip group policy ayarlarını değiştirerek aktive ediyor.)
 <br>Yenile: Regediti ağ adaptörleri için sorguluyor.
+<br>0.03 Saniyede bir eğer başka işlem yapmıyorsa DNS sunucularını kontrol ediyor, eğer değişmişse ekrana yazıyor.
 <br>Buradaki bilgilere bakarak Virustotalde hangi uyarının neden geldiğini anlayabilirsiniz.
