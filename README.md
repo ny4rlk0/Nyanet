@@ -1,4 +1,5 @@
 # Nyanet
+<br><a href="https://github.com/ny4rlk0/Nyanet/releases/download/GelistiriciSurumu/GelistiriciSurumu.zip">Nyanet İndir Yeni Sürüm / Download Nyanet New Version</a>
 <br>Microsoft Edge yeni eklenen güvenlik ağı adlı vpn servisi yazılımın çalışmasını bozuyor. Edge kullanırken Gizlilik Arama ve Hizmetlerden kapatın.
 <br>Türkiye'den, dünyadaki tüm sitelere sansürsüz girmenizi sağlayan yazılım.
 <br>C# ve C++ ile yazılmıştır.
@@ -8,7 +9,7 @@
 <br>Yapılacaklar: Yazılım geliştirmesi hızlı olsun diye sys ve dll dosyalarını hazır derlenmiş olarak aldım.
 <br>Müsait bir zamanda kendim derlemem lazım!
 <br>Bilinen sorunlar: Uygulama donup kapanıyor. Çözüm üzerinde çalışıyorum.
-<br><a href="https://github.com/ny4rlk0/Nyanet/releases/download/GelistiriciSurumu/GelistiriciSurumu.zip">Nyanet İndir Yeni Sürüm</a>
+<br><a href="https://github.com/ny4rlk0/Nyanet/releases/download/GelistiriciSurumu/GelistiriciSurumu.zip">Nyanet İndir Yeni Sürüm / Download Nyanet New Version</a>
 <br><br><img src="1.png">
 ## Gereksinimler (Bunlar yüklü olmadan bilgisayarınızda çalışmaz!)
 <br>windowsdesktop-runtime-6.0.20-win-x64
