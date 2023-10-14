@@ -44,6 +44,7 @@
 <br>Buradaki bilgilere bakarak Virustotalde hangi uyarının neden geldiğini anlayabilirsiniz.
 <br>
 <br> Hangi regedit keylerinde işlem yapıyorum? Hangi regedit keylerinde neyin tutulduğunu bulmak biraz uğraştırıcıydı...
+<br> Bunun için programın kaynak kodundan küçük bir parçaya bakalım.
 ```
 \"HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\NetworkCards
 \"HKLM\\SOFTWARE\\Policies\\Microsoft\\Windows NT\\DNSClient\" /F"
