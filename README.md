@@ -6,9 +6,7 @@
 <br>DNS işinizi kendiniz halledemiyorsanız ilk çalıştırmanızda iki kutucuğuda işaretlemenizi ve Başlat'a basmanızı tavsiye ederim.
 <br>~ny4rlk0
 <br>Yenilikler: Yazılım kurcalanmaya karşı güvenceye alındı. Eksik dosyaları bu repodan yeniden indirme özelliği eklendi. Kendini koruma özelliği eklendi. Hata ayıklamaya karşı basit önlemler alındı. DoH eklerken ayarların çalışmamasına ve şifreli DNS hizmetinin açılmamasına sebep olan bir hata düzeltildi! Bir terslik olmazsa daha fazla güncelleme almayacak.
-<br>Yapılacaklar: Yazılım geliştirmesi hızlı olsun diye sys ve dll dosyalarını hazır derlenmiş olarak aldım.
-<br>Müsait bir zamanda kendim derlemem lazım!
-<br>Bilinen sorunlar: Uygulama donup kapanıyor. Çözüm üzerinde çalışıyorum.
+<br>Bilinen sorunlar: --Uygulama donup kapanıyor. Çözüm üzerinde çalışıyorum.-- Threading kaynaklı bir hata çözüldü.
 <br><a href="https://github.com/ny4rlk0/Nyanet/releases/download/GelistiriciSurumu/GelistiriciSurumu.zip">Nyanet İndir Yeni Sürüm / Download Nyanet New Version</a>
 <br><br><img src="1.png">
 ## Gereksinimler (Bunlar yüklü olmadan bilgisayarınızda çalışmaz!)
