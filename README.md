@@ -6,7 +6,7 @@
 <br>Microsoft Edge yeni eklenen güvenlik ağı adlı vpn servisi yazılımın çalışmasını bozuyor. Edge kullanırken Gizlilik Arama ve Hizmetlerden kapatın.
 <br>Türkiye'den, dünyadaki tüm sitelere sansürsüz girmenizi sağlayan yazılım.
 <br>C# ve C++ ile yazılmıştır.
-<br>DNS işinizi kendiniz halledemiyorsanız ilk çalıştırmanızda iki kutucuğuda işaretlemenizi ve Başlat'a basmanızı tavsiye ederim.
+<br>DNS işinizi kendiniz halledemiyorsanız ilk çalıştırmanızda Gereksinimleri İndir 'i işaretleyin bittikten sonra DNS ayaarlarını uygulaya baasın en sonda Başlat'a basmanızı tavsiye ederim.
 <br>~ny4rlk0
 <br>Yenilikler: Yazılım kurcalanmaya karşı güvenceye alındı. Eksik dosyaları bu repodan yeniden indirme özelliği eklendi. Kendini koruma özelliği eklendi. Hata ayıklamaya karşı basit önlemler alındı. DoH eklerken ayarların çalışmamasına ve şifreli DNS hizmetinin açılmamasına sebep olan bir hata düzeltildi! (Bu hatayı düzeltmek için regedit ayarlamaları yapmak gerekti.) Bir terslik olmazsa daha fazla güncelleme almayacak.
 <br>Yazılım beklentilerimde istediğim fonksiyonalite ve amaca ulaştı. Bir şeyler yolunda gitmediği sürece daha fazla güncelleme almayacaktır!
