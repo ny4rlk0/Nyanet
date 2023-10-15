@@ -49,7 +49,7 @@
 <br>Komut satırını yönetici olarak çalıştırın.
 <br>```sc query windivert```
 <br>```sc stop windivert```
-<br>
+<br>Not: Programın arkaplanındaki çizimde bana ait.
 <br> Hangi regedit keylerinde işlem yapıyorum? Hangi regedit keylerinde neyin tutulduğunu bulmak biraz uğraştırıcıydı...
 <br> Bunun için programın kaynak kodundan küçük bir parçaya bakalım.
 ```
