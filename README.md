@@ -129,20 +129,20 @@ netsh interface ipv6 add dnsservers \"Ethernet\" " +dnsv6_2+" index=2
 <br>You don't use those settings until you reboot. This error was caused by not keeping the variables of the inserted parts in the coding section in backup variables.
 <br>This error does not affect the operation of the program. I won't bother improving it for now. .d (This problem has been solved in the new version!)
 <br>
-<br>If you are wondering what he does, let's go into detail:
+<br>If you are wondering what software does, let's go into detail:
 <br>The program opens and Is there any missing file? he checks. (One time)
-<br>Are there any debugging applications? If it checks, Nyanet is deleted from your computer. If it's working, don't tamper with it, it's asdalkşdjawld.
-<br>Otherwise, it checks the MD5 values of all files. If a file is deleted, the entire program is re-downloaded from github. (one time for 30 seconds)
-<br>It checks whether there is a file or folder other than its own files in the folder of the program's size. To prevent tampering, if any, it creates a folder named NyanetSoftwareProtectionService, copies itself onto it and does not release it.
+<br>Are there any debugging applications? If it checks, Nyanet is removed from your computer. If it's working, don't tamper with it lol asdalkşdjawld.
+<br>Otherwise, it checks the MD5 values of all files. When a file is deleted or replaced, the entire program is re-downloaded from github. (one time for 30 seconds)
+<br>It checks whether there is a file or folder other than its own files in the folder of the program's size. To prevent tampering, if any, it creates a folder named NyanetSoftwareProtectionService, copies itself onto it and leave a note called Warning.
 <br>While the program is being re-downloaded from github, the version in the link on this page is downloaded as software.zip and extracted to a folder named Version in the same folder.
 <br>Occurs during software download: nyaInternalCodes.bat=> When the program downloads itself again, the current program is terminated and deleted. The downloaded program, whose security will be protected, is applied. It deletes the zip file and version folder and then deletes itself. (Security is known to me. The source code was not open. lol)
-<br>Start button: A service that exceeds the DPI Censor written in C++ specific to this program is started in the selected mode.
-<br>Apply selected DNS fragments: height DNS fragments are edited via regedit. (DNS Over Https is not activated, regedit intervenes and enables group policy changes.)
+<br>Start button: A service that bypasses DPI Censor written in C++ specific to this program is started in the selected mode.
+<br>Apply selected DNS settings: DNS fragments are added via regedit. (if DNS Over Https is not activated, from regedit software enables group policy changes.)
 <br>Refresh: Querying Regedit for network adapters.
 <br>0.03 Every second, if it is not doing anything else, it checks the DNS servers, and if they have changed, it writes to the screen.
 <br>By looking at the information here, you can understand which warning appears in Virustotal and why.
 <br>
-<br>Sometimes the windivert.sys file gets stuck when trying to delete the program.
+<br>Sometimes the windivert.sys file gets stuck when trying to delete or close the program.
 <br>Run the command line as administrator.
 <br>```sc query windivert```
 <br>```sc stop windivert```
