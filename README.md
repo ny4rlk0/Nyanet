@@ -144,7 +144,7 @@ netsh interface ipv6 add dnsservers \"Ethernet\" " +dnsv6_2+" index=2
 <br>0.03 Every second, if it is not doing anything else, it checks the DNS servers, and if they have changed, it writes to the screen.
 <br>By looking at the information here, you can understand which warning appears in Virustotal and why.
 <br>
-<br>Sometimes the windivert.sys file gets stuck when trying to delete or close the program.
+<br>Sometimes the windivert.sys file gets stuck when trying to delete or close the program. (Added logic required to unload windivert driver from kernel in latest release.)
 <br>Run the command line as administrator.
 <br>```sc query windivert```
 <br>```sc stop windivert```
