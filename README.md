@@ -1,6 +1,8 @@
 # Nyanet
 <br><a href="https://github.com/ny4rlk0/Nyanet/releases/download/GelistiriciSurumu/GelistiriciSurumu.zip">Nyanet İndir Yeni Sürüm / Download Nyanet New Version</a>
 <br><a href="https://www.virustotal.com/gui/file/8e910b396e1a56a08bf8fd0050c4d42b2e3e3f6f5150b5b208aeda55fa70dd70/detection">Virustotal</a>
+<br>I thought i can't opensource it but now that i checked codes that i reused from another software is licensed under Apache 2.0 so i should be fine.
+<br><a href="https://github.com/ny4rlk0/NyanetSourceCode">Source Code / Kaynak Kodu</a>
 <br>
 <br>x64 makinede denenmiştir x86'da çalışmayabilir.
 <br>Microsoft Edge yeni eklenen güvenlik ağı adlı vpn servisi yazılımın çalışmasını bozuyor. Edge kullanırken Gizlilik Arama ve Hizmetlerden kapatın.
