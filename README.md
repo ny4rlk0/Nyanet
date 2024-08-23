@@ -3,11 +3,11 @@
 <br>
 Currently [Cloudflare W.A.R.P.](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp/) bypasses Deep Packet Inspection entirely. [At the least for Turkey] So you can use that instead of this program.
 <br><br>
-[Download Cloudflare W.A.R.P. Windows 🪟](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp/)
+[⏬İndir Download Cloudflare W.A.R.P. Windows 🪟](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp/)
 <br>
-[Download Cloudflare W.A.R.P. Android 🤖](https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone&hl=en_US&pli=1)
+[⏬İndir Download Cloudflare W.A.R.P. Android 🤖](https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone&hl=en_US&pli=1)
 <br>
-[Download Cloudflare W.A.R.P. IOS 🍎](https://apps.apple.com/us/app/1-1-1-1-faster-internet/id1423538627)
+[⏬İndir Download Cloudflare W.A.R.P. IOS 🍎](https://apps.apple.com/us/app/1-1-1-1-faster-internet/id1423538627)
 <br>
 <br>
 # Nyanet
