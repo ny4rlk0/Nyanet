@@ -1,3 +1,7 @@
+Şu anda [Cloudflare W.A.R.P.](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp/) derin paket inceleme yazılımını hız kesintisi ve limit olmadan başarılı bir şekilde atlatıyor. [En azından Türkiye için.] Bu program yerine onu kullanabilirsiniz.😉✌️
+<br>
+Currently [Cloudflare W.A.R.P.](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp/) bypasses Deep Packet Inspection entirely. [At the least for Turkey] So you can use that instead of this program.
+<br>
 # Nyanet
 <br><b><a href="https://github.com/ny4rlk0/Nyanet/releases/download/GelistiriciSurumu/GelistiriciSurumu.zip">Nyanet İndir Yeni Sürüm / Download Nyanet New Version</a></b>
 <br><a href="https://www.virustotal.com/gui/file/8e910b396e1a56a08bf8fd0050c4d42b2e3e3f6f5150b5b208aeda55fa70dd70/detection">Virustotal</a>
