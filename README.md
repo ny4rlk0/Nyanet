@@ -16,6 +16,21 @@
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 Eğer çalışmıyorsa: [Cloudflare W.A.R.P.](https://developers.cloudflare.com/cloudflare-one/connections/connect-devices/warp/download-warp/) derin paket inceleme yazılımını hız kesintisi ve limit olmadan başarılı bir şekilde atlatıyor. [En azından Türkiye için.] Bu program yerine alternatif olarak onu kullanabilirsiniz.😉✌️
 <br>
 <br>
