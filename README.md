@@ -1,6 +1,7 @@
 
 <br>
 # Nyanet
+<br> Güncellendi / Updated! 29.09.2024
 <br><b><a href="https://github.com/ny4rlk0/Nyanet/releases/download/GelistiriciSurumu/GelistiriciSurumu.zip">Nyanet İndir Yeni Sürüm / Download Nyanet New Version</a></b>
 <br><a href="https://www.virustotal.com/gui/file/8e910b396e1a56a08bf8fd0050c4d42b2e3e3f6f5150b5b208aeda55fa70dd70/detection">Virustotal</a>
 <br><b><a href="https://github.com/ny4rlk0/NyanetSourceCode">Source Code / Kaynak Kodu</a></b>
