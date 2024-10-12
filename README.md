@@ -8,6 +8,7 @@
 <p align="center">
     <img src="1.png">
     <img src="2.png">
+</p>
 <br>
 <br> Teşekkürler / Thankyou  ValdikSS, basil00
 <br>
