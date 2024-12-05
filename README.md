@@ -7,7 +7,7 @@
 <p align="center">
     <img src="1.png">
     <img src="2.png">
-    <img src="3.png">
+    <img src="3.png"><br>
     set Use dns over https instead of system settings. in your web browser.
 </p><!------>
 <br>
