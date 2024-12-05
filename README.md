@@ -8,6 +8,7 @@
     <img src="1.png">
     <img src="2.png">
     <img src="3.png">
+    set Use dns over https instead of system settings. in your web browser.
 </p><!------>
 <br>
 <br> Teşekkürler / Thankyou  ValdikSS, basil00
