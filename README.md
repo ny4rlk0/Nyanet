@@ -1,7 +1,7 @@
 
 <br>
 # Nyanet
-<br> Güncellendi / Updated! 30.10.2024
+<br> Güncellendi / Updated! 5.12.2024
 <br><b><a href="https://github.com/ny4rlk0/Nyanet/releases/download/GelistiriciSurumu/GelistiriciSurumu.zip">Nyanet İndir Yeni Sürüm / Download Nyanet New Version</a></b>
 <br><b><a href="https://github.com/ny4rlk0/NyanetSourceCode">Source Code / Kaynak Kodu</a></b>
 <p align="center">
