@@ -1,16 +1,15 @@
 
-<br>
-# Nyanet
-<br> Güncellendi / Updated! 5.12.2024
-<br><b><a href="https://github.com/ny4rlk0/Nyanet/releases/download/GelistiriciSurumu/GelistiriciSurumu.zip">Nyanet Son Sürümü İndir / Download Nyanet Latest Version</a></b>
-<br><b><a href="https://github.com/ny4rlk0/NyanetSourceCode">Source Code / Kaynak Kodu</a></b>
-<p align="center">
+<!--# Nyanet
+<br> Güncellendi / Updated! 5.12.2024-->
+<br><b><a href="https://github.com/ny4rlk0/Nyanet/releases/download/GelistiriciSurumu/GelistiriciSurumu.zip">Nyanet</a></b>
+<br><b><a href="https://github.com/ny4rlk0/NyanetSourceCode">Source / Kaynak</a></b>
+<!--<p align="center">
     <img src="1.png">
     <img src="2.png">
     <img src="3.png"><br>
     set Use dns over https instead of system settings. in your web browser.
 </p><!------>
-<br>
+<!--<br>
 <br> Teşekkürler / Thankyou  ValdikSS, basil00
 <br>
 <br>
@@ -47,3 +46,5 @@ Currently [Cloudflare W.A.R.P.](https://developers.cloudflare.com/cloudflare-one
 <br>
 [⏬İndir Download Cloudflare W.A.R.P. IOS 🍎](https://apps.apple.com/us/app/1-1-1-1-faster-internet/id1423538627)
 <br>
+DPI Unblocker Tool / DNS Poisoning Fix. Unblock any website!
+-->
