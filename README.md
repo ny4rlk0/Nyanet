@@ -4,7 +4,7 @@
 <br><b><a href="https://github.com/ny4rlk0/Nyanet/releases/download/GelistiriciSurumu/GelistiriciSurumu.zip">Nyanet Download</a></b>
 <br><b><a href="https://github.com/ny4rlk0/NyanetSourceCode">Source / Kaynak</a></b>
 <br>
-<br><a href="https://github.com/ny4rlk0/Nyanet/releases/tag/GelistiriciSurumu">Update change log for curious souls<!></a>
+<br><a href="https://github.com/ny4rlk0/Nyanet/releases/tag/GelistiriciSurumu">Update change log for curious souls!</a>
 <!--<p align="center">
     <img src="1.png">
     <img src="2.png">
