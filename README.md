@@ -11,7 +11,7 @@
 > [!IMPORTANT]
 <a href="https://github.com/ny4rlk0/NyanetSourceCode">Source / Kaynak</a>
 
-# Screen Shot
+# Screenshot
 ![IMG](https://raw.githubusercontent.com/ny4rlk0/Nyanet/refs/heads/main/4.png)
 <!--<p align="center">
     <img src="1.png">
