@@ -15,7 +15,7 @@
 ![IMG](https://raw.githubusercontent.com/ny4rlk0/Nyanet/refs/heads/main/4.png)
 
 > [!NOTE]
-> Yazılımın içindeki en isimli boş dosyayı silerek kapatıp açarsanız yazılım Türkçe dilinde görüntülenir.
+> Yazılım klasörü içindeki "en" isimli boş dosyayı silerek kapatıp açarsanız yazılım Türkçe dilinde görüntülenir.
 <!--<p align="center">
     <img src="1.png">
     <img src="2.png">
