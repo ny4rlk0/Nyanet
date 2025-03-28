@@ -1,10 +1,12 @@
 
 <!--# Nyanet
 <br> Güncellendi / Updated! 5.12.2024-->
-<br><b><a href="https://github.com/ny4rlk0/Nyanet/releases/download/Release/Release.zip">Nyanet Download</a></b>
+> [!NOTE]
+<b><a href="https://github.com/ny4rlk0/Nyanet/releases/download/Release/Release.zip">Nyanet Download</a></b>
 <br><b><a href="https://github.com/ny4rlk0/NyanetSourceCode">Source / Kaynak</a></b>
-<br>
-<br><a href="https://github.com/ny4rlk0/Nyanet/releases/tag/Release">Update change log for curious souls!</a>
+
+> [!TIP]
+<a href="https://github.com/ny4rlk0/Nyanet/releases/tag/Release">Update change log for curious souls!</a>
 <!--<p align="center">
     <img src="1.png">
     <img src="2.png">
