@@ -11,6 +11,9 @@
 > [!IMPORTANT]
 <a href="https://github.com/ny4rlk0/NyanetSourceCode">Source</a>
 
+> [!WARNING]
+> Remove Kaspersky completely and add folder exclusion to ESET Antivirus for using this. Else software might not work as intended.
+
 # Screenshot
 ![IMG](https://raw.githubusercontent.com/ny4rlk0/Nyanet/refs/heads/main/4.png)
 <!--<p align="center">
