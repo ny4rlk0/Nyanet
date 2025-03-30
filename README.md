@@ -14,6 +14,8 @@
 > [!WARNING]
 > Remove Kaspersky completely and add folder exclusion to ESET Antivirus to use Nyanet. Else software might not work as intended.
 > <br>Other AV's should be fine without doing anything.
+> <br>Intel/Qualcomm Killer network cards: Advanced Stream Detect in Killer Control Center is incompatible, disable it.
+> <br>QUIK trading software may interfere. First start QUIK, then Nyanet.
 
 # Screenshot
 ![IMG](https://raw.githubusercontent.com/ny4rlk0/Nyanet/refs/heads/main/5.png)
