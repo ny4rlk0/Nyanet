@@ -6,7 +6,7 @@
 
 
 > [!TIP]
-<a href="https://github.com/ny4rlk0/Nyanet/releases/tag/Release">Update change log for curious souls!</a>
+<a href="https://github.com/ny4rlk0/Nyanet/releases/tag/Release">Update change log</a>
 
 > [!IMPORTANT]
 <a href="https://github.com/ny4rlk0/NyanetSourceCode">Source</a>
