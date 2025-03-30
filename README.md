@@ -16,7 +16,7 @@
 > <br>Other AV's should be fine without doing anything.
 
 # Screenshot
-![IMG](https://raw.githubusercontent.com/ny4rlk0/Nyanet/refs/heads/main/4.png)
+![IMG](https://raw.githubusercontent.com/ny4rlk0/Nyanet/refs/heads/main/5.png)
 <!--<p align="center">
     <img src="1.png">
     <img src="2.png">
