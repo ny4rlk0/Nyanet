@@ -9,7 +9,7 @@
 <a href="https://github.com/ny4rlk0/Nyanet/releases/tag/Release">Update change log for curious souls!</a>
 
 > [!IMPORTANT]
-<a href="https://github.com/ny4rlk0/NyanetSourceCode">Source / Kaynak</a>
+<a href="https://github.com/ny4rlk0/NyanetSourceCode">Source</a>
 
 # Screenshot
 ![IMG](https://raw.githubusercontent.com/ny4rlk0/Nyanet/refs/heads/main/4.png)
