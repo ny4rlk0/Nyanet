@@ -19,7 +19,7 @@
 > <br>QUIK trading software may interfere. First start QUIK, then hit Start on Nyanet.
 
 # Screenshot
-![IMG](https://raw.githubusercontent.com/ny4rlk0/Nyanet/refs/heads/main/6.png)
+![IMG](https://raw.githubusercontent.com/ny4rlk0/Nyanet/refs/heads/main/8.png)
 <!--<p align="center">
     <img src="1.png">
     <img src="2.png">
