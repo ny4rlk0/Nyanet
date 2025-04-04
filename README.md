@@ -13,7 +13,7 @@
 
 > [!WARNING]
 > Install requirements first from ⚙️ => Install requirements. It will download and install neccesary files! 
-> Only works on x64 Windows OS!
+> <br>Only works on x64 Windows OS!
 > <br>Remove Kaspersky completely and add folder exclusion to ESET Antivirus to use Nyanet. Else software might not work as intended.
 > <br>Other AV's should be fine without doing anything.
 > <br>Intel/Qualcomm Killer network cards: Advanced Stream Detect in Killer Control Center is incompatible, disable it.
