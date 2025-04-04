@@ -12,6 +12,7 @@
 <a href="https://github.com/ny4rlk0/NyanetSourceCode">Source</a>
 
 > [!WARNING]
+> Install requirements first from ⚙️ => Install requirements. It will download and install neccesary files! 
 > Only works on x64 Windows OS!
 > <br>Remove Kaspersky completely and add folder exclusion to ESET Antivirus to use Nyanet. Else software might not work as intended.
 > <br>Other AV's should be fine without doing anything.
