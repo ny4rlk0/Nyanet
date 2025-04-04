@@ -19,6 +19,7 @@
 > <br>Intel/Qualcomm Killer network cards: Advanced Stream Detect in Killer Control Center is incompatible, disable it.
 > <br>QUIK trading software may interfere. First start QUIK, then hit Start on Nyanet.
 <br>
+
 > [!WARNING]
 > Gereksinimleri önce ⚙️ => Gereksinimleri indir onay kutusundan yükleyin. Gerekli dosyaları otomatik olarak indirecek ve yükleyecektir! 
 > <br>Yalnızca x64 Windows işletim sisteminde çalışır!
