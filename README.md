@@ -2,7 +2,7 @@
 <!--# Nyanet
 <br> Güncellendi / Updated! 5.12.2024-->
 > [!NOTE]
-<a href="https://github.com/ny4rlk0/Nyanet/releases/download/Release/Release.zip">Nyanet Download / İndir 💾</a>
+<a href="https://github.com/ny4rlk0/Nyanet/releases/download/Release/Release.zip">⬇✔Nyanet Download / İndir 💾✅</a>
 
 
 > [!TIP]
