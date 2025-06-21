@@ -7,10 +7,10 @@
 
 > [!TIP]
 <a href="https://github.com/ny4rlk0/Nyanet/releases/tag/Release">Update change log / Güncelleme notları</a>
-
+<--!
 > [!IMPORTANT]
 <a href="https://github.com/ny4rlk0/NyanetSourceCode">Source / Kaynak</a>
-
+-->
 > [!WARNING]
 > Install requirements first from ⚙️ => Download requirements check box. It will download and install neccesary files automatically! 
 > <br>Only works on x64 Windows OS!
